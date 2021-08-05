@@ -16,6 +16,6 @@ client.on('messageCreate', (message) => {
     //Subscribe and share with your friends!!!! Thank you!!!
 })
 
-client.login('ODcyODAyMzgwMDY3MDA4NTYy.YQvKjw.kVmKswnxhQsADKbmnNGottw2LIA') //paste your token here!
+client.login('your-token-goes-here') //paste your token here!
 // now let us start the bot!
 //I will put my github in the description also!
